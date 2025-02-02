@@ -1,0 +1,17 @@
+ docker exec -ti mypet_php_1 /bin/bash
+ docker-compose -p mypet up -d  --build
+ docker-compose  -p mypet up -d --remove-orphans --build
+
+- RabbitMQ  https://qna.habr.com/q/705575
+ docker exec -it rabbitmq bash
+  - rabbitmq-plugins enable rabbitmq_management
+  - http://localhost:15672/
+
+  push:
+  	git add . && git commit -m "test" && git push
+
+  docker-compose -p mypet up -d --remove-orphans --build
+
+
+
+  Для нагрузочного тестирования https://github.com/maximal/taran?utm_source=tg&utm_medium=php&utm_campaign=190125

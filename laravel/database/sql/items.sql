@@ -1,0 +1,10 @@
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Victoria','374662',4,2,2,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Xavier','513268',4,2,1,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Como','454990',4,3,2,3);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Aspen','384356',4,2,2,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Lucretia','572002',4,3,2,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Toorak','521951',5,2,1,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Skyscape','263604',3,2,2,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Clifton','386103',3,2,1,1);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Geneva','390600',4,3,2,2);
+INSERT INTO orders(name,price,bedrooms,bathrooms,storeys,garages) VALUES ('The Geneva','390600',4,3,2,2);
